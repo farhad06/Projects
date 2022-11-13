@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>House Price</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.js"
+      integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+      crossorigin="anonymous"
+    ></script>
+    <script src="app.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main-div">
+      <div class="inner-div">
+        <center>
+          <h2 style="padding-bottom: 30px; color: rgb(15, 247, 84)">
+            Predict Your House Price
+          </h2>
+        </center>
+        <form>
+          <div class="row">
+            <div class="col">
+              <input
+                type="number"
+                class="form-control"
+                placeholder="Enter Area (Sqft)"
+                id="sqft"
+                name="Squareft"
+                autocomplete="off"
+                required
+              />
+            </div>
+            <div class="col">
+              <input
+                type="number"
+                class="form-control"
+                placeholder="Enter BHK (1-5)"
+                name="uiBHK"
+                id="bhk"
+                min="1"
+                max="5"
+                autocomplete="off"
+                required
+              />
+            </div>
+          </div>
+          <div class="row">
+            <div class="col" style="margin-top: 7px">
+              <select
+                class="form-control"
+                class="location"
+                name=""
+                id="uiLocations"
+              >
+                <option value="" disabled="disabled" selected="selected">
+                  Choose a Location
+                </option>
+                <option>Rajaji Nagar</option>
+                <option>Whitefield</option>
+              </select>
+            </div>
+            <div class="col" style="margin-top: 7px">
+              <input
+                type="number"
+                class="form-control"
+                placeholder="Enter Bathroom (1-5)"
+                name="uiBathrooms"
+                id="bath"
+                min="1"
+                max="5"
+                autocomplete="off"
+                required
+              />
+            </div>
+          </div>
+        </form>
+        <center>
+          <button
+            type="button"
+            class="btn btn-success"
+            id="predictbutton"
+            style="justify-content: center; margin-top: 15px"
+            onclick="onClickedEstimatePrice()"
+          >
+            ESTIMATE
+          </button>
+        </center>
+
+        <div id="showprice" class="scoreArea"></div>
+      </div>
+    </div>
+  </body>
+</html>
