@@ -1,5 +1,6 @@
-<h1>Project Title</h1>
+# Project Title
 <center><h3 style='color:"green";'>Covid-19 Detection</h3></center>
+
 # About Project
 This is an Image classification-based project which is created to predict whether a person is covid positive or normal using his/her X-ray image.
 
