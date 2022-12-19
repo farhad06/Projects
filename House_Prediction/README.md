@@ -10,7 +10,7 @@ Goal of this projects is to predict house price in banglore location depends on 
 <li>Numpy and Pandas for data cleaning</li>
 <li>Matplotlib for data visualization</li>
 <li>Sklearn for model building</li>
-<li>Jupyter notebook, visual studio code and pycharm as IDE</li>
+<li>Jupyter notebook, VS Code and Pycharm as IDE</li>
 <li> Python flask for http server</li>
 <li>HTML/CSS/Javascript for UI</li>
 </ul>
