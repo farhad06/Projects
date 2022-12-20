@@ -42,10 +42,8 @@ The main Goal of this project is to predict flight price.
     ```
     
 # Screen Shot
-    
-    <img src="https://github.com/farhad06/Projects/blob/main/Flight-price/flight-1.jpg">
-    
-<p><h5>This is a Flight Ticket Price Predction Projects.</h5></p>
 
-### To download Projects dataset and model please visite the below link👇👇
+<img src="https://github.com/farhad06/Projects/blob/main/Flight-price/flight-1.jpg">
+    
+# To download Projects dataset and model please visite the below link👇👇
     https://drive.google.com/drive/folders/1-n-sfk4dVsWLQww2mfC0ZhFHBKYhuuVk?usp=sharing
