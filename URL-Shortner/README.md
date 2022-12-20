@@ -31,7 +31,7 @@ The main goal of this project is create a Short URLs address
 <li>VS Code</li>
 </ul>
 
-#Install Requirements
+# Install Requirements
 
 ```
 pip install flask
@@ -41,7 +41,7 @@ pip install flask_migrate
 
 ```
 
-#Run this application
+# Run this application
 
 ```
 python app.py
