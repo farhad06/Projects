@@ -17,7 +17,7 @@ Goal of this projects is to predict house price in banglore location depends on 
 <li>HTML/CSS/Javascript for UI</li>
 </ul>
     
-# Instll Requirements
+# Install Requirements
     
 #### Download Python 3.5 or more version and anaconda 
     
