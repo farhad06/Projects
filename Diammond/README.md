@@ -29,7 +29,7 @@ The main goal of this project is to know price of diamond.
 <li>Jupyter notebook</li>
 <li>VS Code</li>
 
-#Install Requirements
+# Install Requirements
 
 ```
 pip install pandas 
