@@ -16,7 +16,20 @@ Goal of this projects is to predict house price in banglore location depends on 
 <li> Python flask for http server</li>
 <li>HTML/CSS/Javascript for UI</li>
 </ul>
+#Instll Requirements
+#### Download Python 3.5 or more version and anaconda 
+```
+pip install numpy
+pip install pandas
+pip install sklearn
+pip install flask
+pip install seaborn,matplotlib
 
+```
+#How to run this application
+```
+python run app.py
+```
 # Some Screenshot 
 <img src ="https://github.com/farhad06/Projects/blob/main/House_Prediction/SS/house-1.jpg">
 <img src='https://github.com/farhad06/Projects/blob/main/House_Prediction/SS/house-2.jpg'>
