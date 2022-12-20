@@ -47,12 +47,12 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 # Credict
 
-https://www.kaggle.com/
-https://www.analyticsvidhya.com/
-https://pypi.org
-https://www.geeksforgeeks.org/
-https://www.youtube.com/
-https://www.github.com    
+https://www.kaggle.com/ <br>
+https://www.analyticsvidhya.com/ <br>
+https://pypi.org <br>
+https://www.geeksforgeeks.org/ <br>
+https://www.youtube.com/ <br>
+https://www.github.com  <br>   
 
     
 
