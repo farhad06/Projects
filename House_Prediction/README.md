@@ -32,7 +32,7 @@ pip install seaborn,matplotlib
 # How to run this application
     
 ```
-python run app.py
+python  app.py
 
 ```
     
