@@ -16,9 +16,11 @@ The main goal of this project is to know price of diamond.
 # Technologies used for this project.
 <ul>
 <li>Python</li>
-<li>CNN for model building</li>
-<li>Tensorflow</li>
-<li>Keras</li>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>KNN for model building</li>
+<li>Sklearn</li>
 <li>Streamlit for Website</li>
 </ul>
 
