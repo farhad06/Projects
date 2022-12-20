@@ -13,34 +13,33 @@ The main Goal of this project is to predict flight price.
 # Technologies and Tools Used for this project
 
 <ul>
-    
-    <li> Python </li>
-    <li> Numpy and Pandas for data cleaning </li>
-   <li> Matplotlib for data visualization </li>
-    <li> Sklearn for model building </li>
-    <li> Jupyter notebook, VS Code and Pycharm as IDE </li>
-    <li> Python flask for http server </li>
-    <li> HTML/CSS/Javascript for UI </li>
-
-    </ul>
+<li> Python </li>
+<li> Numpy and Pandas for data cleaning </li>
+<li> Matplotlib for data visualization </li>
+<li> Sklearn for model building </li>
+<li> Jupyter notebook, VS Code and Pycharm as IDE </li>
+<li> Python flask for http server </li>
+<li> HTML/CSS/Javascript for UI </li>
+</ul>
 
 # Install Requirements and Run this project
     
-    ##### Install Latest Python and Anaconda
+##### Install Latest Python and Anaconda
     
     ```
-pip install numpy
-pip install pandas
-pip install sklearn
-pip install flask
-pip install seaborn,matplotlib
+    pip install numpy
+    pip install pandas
+    pip install sklearn
+    pip install flask
+    pip install seaborn,matplotlib
     
     ```
-    
-    ### To run 
+### To run 
     
     ```
     python app.py
+    
+    ```
     
 # Screen Shot
     
