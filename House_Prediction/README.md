@@ -45,7 +45,17 @@ python run app.py
 ### To download dataset visite at <br>
 https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
+# Credict
+
+https://www.kaggle.com/
+https://www.analyticsvidhya.com/
+https://pypi.org
+https://www.geeksforgeeks.org/
+https://www.youtube.com/
+https://www.github.com    
+
     
+
     
     
     
