@@ -1,5 +1,5 @@
 # Project Title
-<center><h3 style='color:"green";'>Covid-19 Detection</h3></center>
+<center><h3 style='color:"green";'>Diamond Price Prediction</h3></center>
 
 # About Project
 This is a simple Data Science projects that is build for predict diamond price depends on some charastics of diamond.
@@ -37,7 +37,7 @@ pip install streamlit
 
 ```
 
-#Run this application
+# Run this application
 
 ```
 streamlit run app.py
@@ -59,6 +59,7 @@ streamlit run app.py
 
 # Credict 
 
-Innomatics Research Labs
+Innomatics Research Labs<br>
+  
 Kanav Bansal
 
